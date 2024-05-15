@@ -13,6 +13,10 @@ Single-user input. All data will originate from the user and stay within the dev
 
 # Features
 
+- Users can create and view a task
+- Users can update or delete a task
+- Users can create tags and then tag tasks
+- Users can search task by task name or description
 - Users have an (animated) splash screen when starting the app
 - Users have an in-app tutorial when using the app for the first time (and can reset it)
 - Users can delete all user data in the app settings
