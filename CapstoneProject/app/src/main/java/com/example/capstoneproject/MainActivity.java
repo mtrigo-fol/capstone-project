@@ -23,6 +23,10 @@ public class MainActivity extends AppCompatActivity {
 
     private int taskCreationVariable = 0;
 
+    public void createTask(string taskName) {
+        // Creates a task
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
