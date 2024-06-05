@@ -27,6 +27,14 @@ public class MainActivity extends AppCompatActivity {
         // Creates a task
     }
 
+    public void updateTask(string taskName, string newName) {
+        // Updates a task
+    }
+
+    public void deleteTask(id taskId) {
+        // Deletes a task
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
