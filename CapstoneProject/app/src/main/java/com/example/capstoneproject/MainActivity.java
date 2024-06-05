@@ -35,6 +35,10 @@ public class MainActivity extends AppCompatActivity {
         // Deletes a task
     }
 
+    public void tagTask(id taskId, string tag) {
+        // Tags a task
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
